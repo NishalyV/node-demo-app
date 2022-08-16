@@ -1,0 +1,5 @@
+exports.userRouter = require('./userRouter')
+exports.notificationRouter = require('./notificationRouter')
+exports.authRouter = require('./authRouter')
+exports.questionRouter = require('./questionrouter')
+exports.answerRouter = require('./answerrouter')

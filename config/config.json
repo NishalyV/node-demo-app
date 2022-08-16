@@ -1,0 +1,8 @@
+{
+    "jwt": {
+        "jwtSecret": "D3m0n0d3",
+        "jwtSession": {
+            "session": false
+        }
+    }
+}
